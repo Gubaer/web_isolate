@@ -1,0 +1,7 @@
+name:  web_isolate
+description: >
+  Trivial web app relying on isolates. Currenty (dart 1.9.0) fails
+  in Dartium.
+
+dependencies:
+  browser: any
